@@ -12,6 +12,11 @@ Physics graduate from the Aristotle University of Thessaloniki with a focus on a
 - MATLAB
 - C
 
+## Scientific Computing
+- Computational Physics
+- Numerical Analysis
+- Data Analysis
+
 ## Scientific Tools
 - Mathematica
 - Origin
