@@ -18,5 +18,5 @@ Physics graduate from the Aristotle University of Thessaloniki with a focus on a
 - Origin
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/faye-stoikou-442b34256/
-Mail: fstoikou@physics.auth.gr
+- LinkedIn: https://www.linkedin.com/in/faye-stoikou-442b34256/
+- Mail: fstoikou@physics.auth.gr
