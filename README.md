@@ -1,4 +1,4 @@
-# Foteini Stoikou
+# Faye Stoikou
 
 Physics graduate from the Aristotle University of Thessaloniki with a focus on astroparticle physics and computational methods.
 
