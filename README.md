@@ -1,16 +1,22 @@
-## Hi there 👋
+# Foteini Stoikou
 
-<!--
-**Faye-Stoikou/Faye-Stoikou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics graduate from the Aristotle University of Thessaloniki with a focus on astroparticle physics and computational methods.
 
-Here are some ideas to get you started:
+## Research Interests
+- Astroparticle Physics
+- Neutron Stars
+- Cosmology
+- Dense Matter Physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming
+- Python
+- MATLAB
+- C
+
+## Scientific Tools
+- Mathematica
+- Origin
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/faye-stoikou-442b34256/
+Mail: fstoikou@physics.auth.gr
