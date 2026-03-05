@@ -5,7 +5,6 @@ Physics graduate from the Aristotle University of Thessaloniki with a focus on a
 ## Research Interests
 - Astroparticle Physics
 - Neutron Stars
-- Cosmology
 - Dense Matter Physics
 
 ## Programming
