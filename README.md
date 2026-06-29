@@ -4,6 +4,7 @@ Physics graduate from the Aristotle University of Thessaloniki with a focus on a
 
 ## Research Interests
 - Astroparticle Physics
+- Particle Physics
 - Neutron Stars
 - Dense Matter Physics
 
@@ -11,6 +12,7 @@ Physics graduate from the Aristotle University of Thessaloniki with a focus on a
 - Python
 - MATLAB
 - C
+- Bash/Linux
 
 ## Scientific Computing
 - Computational Physics
@@ -18,6 +20,8 @@ Physics graduate from the Aristotle University of Thessaloniki with a focus on a
 - Data Analysis
 
 ## Scientific Tools
+- MadGraph5_aMC@NLO
+- MadSpin
 - Mathematica
 - Origin
 
